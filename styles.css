@@ -1,0 +1,190 @@
+body {
+    background-color: rgb(250, 250, 216);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    background-color: gold;
+    height: 70px;
+  }
+
+footer {
+    background-color: gold;
+    margin-top: auto;
+    height: 100px;
+}
+
+  .head {
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 40px;
+    text-shadow: 3px 3px 1px rgba(0, 0, 0, 1);
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.logo {
+    margin-left: 150px;
+    margin-top: -67px;
+}
+
+p {
+    font-size: 18px;
+}
+
+html {
+    font-family: Arial;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    color: black;
+    background-color: black;
+}
+
+.box {
+    width: 780px;
+    height: 67px;
+    margin-bottom: -67px;
+}
+
+.map {
+    position: relative;
+}
+
+iframe {
+    border: none;
+}
+
+.mapbutton {
+    box-align: right;
+    color: black;
+    font-family: Arial;
+    border-color: black;
+    background: rgb(255, 228, 72);
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.mapbutton:hover {
+    background-color: rgb(248, 227, 106);
+}
+
+.mapbutton:active {
+    background-color: rgb(250, 233, 135);
+}
+
+.mapbuttonright {
+    text-align: center;
+}
+
+.startbutton {
+    box-align: right;
+    color: black;
+    font-family: Arial;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    transition: background-color 0.3s;
+}
+
+.startbutton:hover {
+    background-color: rgb(224, 224, 185);
+}
+
+.startbutton:active {
+    background-color: rgb(204, 204, 169);
+}
+
+.startbuttonleft {
+    text-align: left;
+}
+
+.mainphoto1 {
+    text-align: center;
+}
+
+.manvajagborderakrasunomainit {
+    border: 7px;
+    border-color: gold;
+    border-style: solid;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.iecizogroup {
+    margin-top: 12px;
+    margin-left: 10px;
+    margin-bottom: -20px;
+}
+
+.ctext {
+    margin-left: 10px;
+}
+
+.footercontact {
+    text-align: right;
+    margin-top: -105px;
+    margin-right: 10px;
+}
+
+.footercontacttoms {
+    text-align: right;
+    margin-top: -16px;
+    margin-right: 10px;
+}
+
+.donatebutton {
+    text-align: center;
+    margin-top: -30px;
+    margin-right: 270px;
+}
+
+.footerdonatetext {
+    text-align: center;
+    margin-top: -24px;
+    margin-left: -500px;
+}
+
+.formbutton {
+    color: black;
+    font-family: Arial;
+    border-color: black;
+    background: rgb(255, 228, 72);
+    cursor: pointer;
+    font-size: 20px;
+    border-radius: 15px;
+    width: 200px;
+    height: 40px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.formbutton:hover {
+    background-color: rgb(248, 227, 106);
+}
+
+.formbutton:active {
+    background-color: rgb(250, 233, 135);
+}
+
+.formbuttonalign {
+    text-align: center;
+}
