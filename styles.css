@@ -25,14 +25,14 @@ footer {
     cursor: pointer;
     font-size: 40px;
     text-shadow: 3px 3px 1px rgba(0, 0, 0, 1);
-    margin-left: 20px;
+    margin-left: 70px;
     margin-top: 10px;
     margin-bottom: 10px;
 }
 
 .logo {
-    margin-left: 150px;
-    margin-top: -67px;
+    margin-left: 5px;
+    margin-top: -63px;
 }
 
 p {
@@ -51,7 +51,7 @@ hr {
 }
 
 .box {
-    width: 780px;
+    width: 1380px;
     height: 67px;
     margin-bottom: -67px;
 }
@@ -99,8 +99,8 @@ iframe {
     border: none;
     background: none;
     cursor: pointer;
-    font-size: 20px;
-    width: 150px;
+    font-size: 25px;
+    width: 250px;
     height: 40px;
     transition: background-color 0.3s;
 }
